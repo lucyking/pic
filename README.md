@@ -1,0 +1,3 @@
+# pic
+
+to store pictures
